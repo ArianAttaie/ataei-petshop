@@ -1,0 +1,4 @@
+*.log
+*.pdf
+__pycache__
+my_venv
